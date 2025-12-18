@@ -78,15 +78,6 @@
 <!--horizontal divider(gradient)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<!-- GitHub Contribution Graph -->
-<div align="center">
-  <h2>📈 Contribution Graph</h2>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=13siddhu&custom_title=Siddhartha's%20Contribution%20Graph&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area_color=1f6feb&area=true&hide_border=true&theme=github-compact" alt="Contribution Graph" />
-</div>
-
-<!--horizontal divider(gradient)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">
